@@ -52,8 +52,7 @@ export default App;
 ```
 
 ## OUTPUT
-<img width="1125" height="473" alt="image" src="https://github.com/user-attachments/assets/f8468b80-64bb-40da-98a7-0f3ed460b73a" />
-<img width="1125" height="509" alt="image" src="https://github.com/user-attachments/assets/cd02aaae-b9b7-48af-ad30-d12a290b3d59" />
+<img width="915" height="360" alt="image" src="https://github.com/user-attachments/assets/347829af-1ad5-444f-a41b-b62e231c834a" />
 
 ## RESULT
 ### Thus, React Fragments were successfully implemented using both shorthand syntax (<> </>) and explicit Fragment syntax. Multiple JSX elements were grouped without adding extra wrapper elements to the DOM.
